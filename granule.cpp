@@ -507,7 +507,7 @@ int run(const std::vector<uint8_t>& program, bool dotrace=false) {
     return 0;
 }
 
-int main(int argc, char* argv[]) {
+/*int main(int argc, char* argv[]) {
     bool dotrace = false;
     if (argc < 2) {
         std::cerr << "Usage: " << argv[0] << " <bytecode.bin>\n";
@@ -537,4 +537,4 @@ int main(int argc, char* argv[]) {
     );
 
     return run(program, dotrace);
-}
+}*/
