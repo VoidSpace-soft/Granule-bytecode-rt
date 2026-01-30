@@ -18,3 +18,7 @@ granule.cpp => C++ Edition source code <br>
 
 # Thank you for seeing
 Even someone seeing this project brings hope to my heart!
+
+# Updates on C++ Edition
+Changed executable name to "granule" rather than "granuleC++".<br>
+Fixed string/int read in C++ Edition
